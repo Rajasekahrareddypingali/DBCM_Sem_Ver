@@ -1,3 +1,4 @@
 python3.8.10
-pytest
-npm 
+npm
+pytest-7.1.2
+pluggy-1.0.0
